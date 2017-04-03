@@ -1,0 +1,104 @@
+<svg height="1614" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1614" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">└─┬ zombie@5.0.5 </tspan>
+<tspan x="10" y="42">  ├─┬ babel-runtime@5.8.29 </tspan>
+<tspan x="10" y="58">  │ └── core-js@1.2.7 </tspan>
+<tspan x="10" y="74">  ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="90">  ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="106">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="122">  ├─┬ eventsource@0.1.6 </tspan>
+<tspan x="10" y="138">  │ └─┬ original@1.0.0 </tspan>
+<tspan x="10" y="154">  │   └─┬ url-parse@1.0.5 </tspan>
+<tspan x="10" y="170">  │     ├── querystringify@0.0.4 </tspan>
+<tspan x="10" y="186">  │     └── requires-port@1.0.0 </tspan>
+<tspan x="10" y="202">  ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="218">  ├─┬ jsdom@7.2.2 </tspan>
+<tspan x="10" y="234">  │ ├── abab@1.0.3 </tspan>
+<tspan x="10" y="250">  │ ├── acorn@2.7.0 </tspan>
+<tspan x="10" y="266">  │ ├── acorn-globals@1.0.9 </tspan>
+<tspan x="10" y="282">  │ ├── cssom@0.3.2 </tspan>
+<tspan x="10" y="298">  │ ├── cssstyle@0.2.37 </tspan>
+<tspan x="10" y="314">  │ ├─┬ escodegen@1.8.1 </tspan>
+<tspan x="10" y="330">  │ │ ├── esprima@2.7.3 </tspan>
+<tspan x="10" y="346">  │ │ ├── estraverse@1.9.3 </tspan>
+<tspan x="10" y="362">  │ │ ├── esutils@2.0.2 </tspan>
+<tspan x="10" y="378">  │ │ ├─┬ optionator@0.8.2 </tspan>
+<tspan x="10" y="394">  │ │ │ ├── deep-is@0.1.3 </tspan>
+<tspan x="10" y="410">  │ │ │ ├── fast-levenshtein@2.0.6 </tspan>
+<tspan x="10" y="426">  │ │ │ ├── levn@0.3.0 </tspan>
+<tspan x="10" y="442">  │ │ │ ├── prelude-ls@1.1.2 </tspan>
+<tspan x="10" y="458">  │ │ │ ├── type-check@0.3.2 </tspan>
+<tspan x="10" y="474">  │ │ │ └── wordwrap@1.0.0 </tspan>
+<tspan x="10" y="490">  │ │ └─┬ source-map@0.2.0 </tspan>
+<tspan x="10" y="506">  │ │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="522">  │ ├── nwmatcher@1.3.9 </tspan>
+<tspan x="10" y="538">  │ ├── parse5@1.5.1 </tspan>
+<tspan x="10" y="554">  │ ├── sax@1.2.2 </tspan>
+<tspan x="10" y="570">  │ ├── symbol-tree@3.2.2 </tspan>
+<tspan x="10" y="586">  │ ├── webidl-conversions@2.0.1 </tspan>
+<tspan x="10" y="602">  │ ├─┬ whatwg-url-compat@0.6.5 </tspan>
+<tspan x="10" y="618">  │ │ └── tr46@0.0.3 </tspan>
+<tspan x="10" y="634">  │ └── xml-name-validator@2.0.1 </tspan>
+<tspan x="10" y="650">  ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="666">  ├── mime@1.3.4 </tspan>
+<tspan x="10" y="682">  ├── ms@0.7.3 </tspan>
+<tspan x="10" y="698">  ├─┬ request@2.81.0 </tspan>
+<tspan x="10" y="714">  │ ├── aws-sign2@0.6.0 </tspan>
+<tspan x="10" y="730">  │ ├── aws4@1.6.0 </tspan>
+<tspan x="10" y="746">  │ ├── caseless@0.12.0 </tspan>
+<tspan x="10" y="762">  │ ├─┬ combined-stream@1.0.5 </tspan>
+<tspan x="10" y="778">  │ │ └── delayed-stream@1.0.0 </tspan>
+<tspan x="10" y="794">  │ ├── extend@3.0.0 </tspan>
+<tspan x="10" y="810">  │ ├── forever-agent@0.6.1 </tspan>
+<tspan x="10" y="826">  │ ├─┬ form-data@2.1.2 </tspan>
+<tspan x="10" y="842">  │ │ └── asynckit@0.4.0 </tspan>
+<tspan x="10" y="858">  │ ├─┬ har-validator@4.2.1 </tspan>
+<tspan x="10" y="874">  │ │ ├─┬ ajv@4.11.5 </tspan>
+<tspan x="10" y="890">  │ │ │ ├── co@4.6.0 </tspan>
+<tspan x="10" y="906">  │ │ │ └─┬ json-stable-stringify@1.0.1 </tspan>
+<tspan x="10" y="922">  │ │ │   └── jsonify@0.0.0 </tspan>
+<tspan x="10" y="938">  │ │ └── har-schema@1.0.5 </tspan>
+<tspan x="10" y="954">  │ ├─┬ hawk@3.1.3 </tspan>
+<tspan x="10" y="970">  │ │ ├── boom@2.10.1 </tspan>
+<tspan x="10" y="986">  │ │ ├── cryptiles@2.0.5 </tspan>
+<tspan x="10" y="1002">  │ │ ├── hoek@2.16.3 </tspan>
+<tspan x="10" y="1018">  │ │ └── sntp@1.0.9 </tspan>
+<tspan x="10" y="1034">  │ ├─┬ http-signature@1.1.1 </tspan>
+<tspan x="10" y="1050">  │ │ ├── assert-plus@0.2.0 </tspan>
+<tspan x="10" y="1066">  │ │ ├─┬ jsprim@1.4.0 </tspan>
+<tspan x="10" y="1082">  │ │ │ ├── assert-plus@1.0.0 </tspan>
+<tspan x="10" y="1098">  │ │ │ ├── extsprintf@1.0.2 </tspan>
+<tspan x="10" y="1114">  │ │ │ ├── json-schema@0.2.3 </tspan>
+<tspan x="10" y="1130">  │ │ │ └── verror@1.3.6 </tspan>
+<tspan x="10" y="1146">  │ │ └─┬ sshpk@1.11.0 </tspan>
+<tspan x="10" y="1162">  │ │   ├── asn1@0.2.3 </tspan>
+<tspan x="10" y="1178">  │ │   ├── assert-plus@1.0.0 </tspan>
+<tspan x="10" y="1194">  │ │   ├── bcrypt-pbkdf@1.0.1 </tspan>
+<tspan x="10" y="1210">  │ │   ├─┬ dashdash@1.14.1 </tspan>
+<tspan x="10" y="1226">  │ │   │ └── assert-plus@1.0.0 </tspan>
+<tspan x="10" y="1242">  │ │   ├── ecc-jsbn@0.1.1 </tspan>
+<tspan x="10" y="1258">  │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="1274">  │ │   │ └── assert-plus@1.0.0 </tspan>
+<tspan x="10" y="1290">  │ │   ├── jodid25519@1.0.2 </tspan>
+<tspan x="10" y="1306">  │ │   ├── jsbn@0.1.1 </tspan>
+<tspan x="10" y="1322">  │ │   └── tweetnacl@0.14.5 </tspan>
+<tspan x="10" y="1338">  │ ├── is-typedarray@1.0.0 </tspan>
+<tspan x="10" y="1354">  │ ├── isstream@0.1.2 </tspan>
+<tspan x="10" y="1370">  │ ├── json-stringify-safe@5.0.1 </tspan>
+<tspan x="10" y="1386">  │ ├─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="1402">  │ │ └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="1418">  │ ├── oauth-sign@0.8.2 </tspan>
+<tspan x="10" y="1434">  │ ├── performance-now@0.2.0 </tspan>
+<tspan x="10" y="1450">  │ ├── qs@6.4.0 </tspan>
+<tspan x="10" y="1466">  │ ├── safe-buffer@5.0.1 </tspan>
+<tspan x="10" y="1482">  │ ├── stringstream@0.0.5 </tspan>
+<tspan x="10" y="1498">  │ ├── tunnel-agent@0.6.0 </tspan>
+<tspan x="10" y="1514">  │ └── uuid@3.0.1 </tspan>
+<tspan x="10" y="1530">  ├─┬ tough-cookie@2.3.2 </tspan>
+<tspan x="10" y="1546">  │ └── punycode@1.4.1 </tspan>
+<tspan x="10" y="1562">  └─┬ ws@1.1.4 </tspan>
+<tspan x="10" y="1578">    ├── options@0.0.6 </tspan>
+<tspan x="10" y="1594">    └── ultron@1.0.2</tspan>
+</text>
+</svg>
